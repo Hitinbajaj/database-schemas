@@ -2,8 +2,8 @@
 
 -- Create the database
 DROP DATABASE IF EXISTS flight_logs;
-CREATE DATABASE flight_logs_2;
-USE flight_logs_2;
+CREATE DATABASE flight_logs;
+USE flight_logs;
 
 -- Create a table
 CREATE TABLE flights (
